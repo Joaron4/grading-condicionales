@@ -10,25 +10,6 @@
         "timeout": 5,
         "points": 1
       },
-      {
-        "name": "parte2",
-        "setup": "sudo -H pip3 install -r requirements.txt",
-        "run": "pytest test_tarea.py::test_suma_dos",
-        "input": "",
-        "output": "",
-        "comparison": "included",
-        "timeout": 5,
-        "points": 1
-      },
-      {
-        "name": "parte3",
-        "setup": "sudo -H pip3 install -r requirements.txt",
-        "run": "pytest test_tarea.py::test_arreglo_de_ceros",
-        "input": "",
-        "output": "",
-        "comparison": "included",
-        "timeout": 5,
-        "points": 1
-      }
+      
     ]
   }
