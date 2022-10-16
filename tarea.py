@@ -7,16 +7,3 @@ def hola_mundo() -> str:
     raise NotImplementedError()
 
 
-def suma_dos(x: int) -> int:
-    """
-    Instrucción: Sume 2 a x
-    """
-    raise NotImplementedError()
-
-
-def arreglo_de_ceros(N: int) -> np.ndarray:
-    """
-    Instrucción: Retorna una ndarray de tipo double de largo N relleno con
-    ceros
-    """
-    raise NotImplementedError()
